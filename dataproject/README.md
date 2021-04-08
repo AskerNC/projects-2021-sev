@@ -1,14 +1,11 @@
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+The project is titled **DataProject** and is about Danish unemployment.
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running [dataproject.ipynb](sev-DataProject.ipynb).
 
-This **loades two datasets**:
+This **loades one dataset**:
 
-1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
-1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
+1. AUL01.xlsx downloaded from https://www.statistikbanken.dk/AUL01
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-
-``pip install matplotlib-venn``
+`
