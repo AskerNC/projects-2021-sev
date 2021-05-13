@@ -1,7 +1,7 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+My project is titled **The Cournot model of oligopoly** and is about how firms choose behave in a market with two firms competeting on amount of production. I am also analyzing how increasing marginal costs and a third firm entering the market affects the firms. 
 
-The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
+The **results** of the project can be seen from running [modelproject.ipynb](modelproject-sev.ipynb).
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
