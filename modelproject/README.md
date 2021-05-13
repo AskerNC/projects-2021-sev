@@ -1,6 +1,6 @@
 # Model analysis project
 
-My project is titled **The Cournot model of oligopoly** and is about how firms behave in a market with two firms competeting on amount of production. I am also analyzing how increasing marginal costs and a third firm entering the market affects the firms. 
+My project is titled **The Cournot model of oligopoly** and is about how firms behave in a market with two firms compete in quantity of homogenous products. I am also analyzing how increasing marginal costs and a third firm entering the market affects the firms. 
 
 The **results** of the project can be seen from running [modelproject-sev.ipynb](modelproject-sev.ipynb).
 
